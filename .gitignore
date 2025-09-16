@@ -1,0 +1,20 @@
+
+# Ignorar clases compiladas
+*.class
+
+# Ignorar carpetas de compilación de Maven (como target/)
+*/target/
+
+# Carpetas generadas por NetBeans
+*/build/
+*/dist/
+*/nbproject/private/
+
+# Archivos generados (JARs, logs, backups)
+*.jar
+*.log
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
